@@ -22,8 +22,7 @@ p {
     text-align: center;
 }
 
-
-iframe,video{ 
+iframe,video { 
     display: block;
     margin: 0 auto;
     width: 80%;
